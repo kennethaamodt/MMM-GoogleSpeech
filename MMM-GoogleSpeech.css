@@ -1,0 +1,19 @@
+.microphone {
+    display: inline-block;
+}
+
+.microphone img, .microphone span {
+    width: 15%;
+    position: relative;
+    display: inline-block;
+    padding-right: 20px;
+    vertical-align: middle;
+}
+
+.text{
+    margin-top: 20px;
+}
+
+.empty{
+    height: 100px;
+}
